@@ -102,3 +102,6 @@ Displays information about the source code of the bot.
 ## Self Hosting
 
 See the [Docker Guide](docker/README.md) for instructions on self hosting.
+
+
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
